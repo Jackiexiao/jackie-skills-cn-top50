@@ -1,0 +1,202 @@
+[
+  {
+    "source": "vercel-labs/skills/find-skills",
+    "dest": "skills/find-skills"
+  },
+  {
+    "source": "vercel-labs/agent-skills/vercel-react-best-practices",
+    "dest": "skills/vercel-react-best-practices"
+  },
+  {
+    "source": "vercel-labs/agent-skills/web-design-guidelines",
+    "dest": "skills/web-design-guidelines"
+  },
+  {
+    "source": "remotion-dev/skills/remotion-best-practices",
+    "dest": "skills/remotion-best-practices"
+  },
+  {
+    "source": "anthropics/skills/frontend-design",
+    "dest": "skills/frontend-design"
+  },
+  {
+    "source": "vercel-labs/agent-skills/vercel-composition-patterns",
+    "dest": "skills/vercel-composition-patterns"
+  },
+  {
+    "source": "vercel-labs/agent-browser/agent-browser",
+    "dest": "skills/agent-browser"
+  },
+  {
+    "source": "anthropics/skills/skill-creator",
+    "dest": "skills/skill-creator"
+  },
+  {
+    "source": "browser-use/browser-use/browser-use",
+    "dest": "skills/browser-use"
+  },
+  {
+    "source": "vercel-labs/agent-skills/vercel-react-native-skills",
+    "dest": "skills/vercel-react-native-skills"
+  },
+  {
+    "source": "nextlevelbuilder/ui-ux-pro-max-skill/ui-ux-pro-max",
+    "dest": "skills/ui-ux-pro-max"
+  },
+  {
+    "source": "obra/superpowers/brainstorming",
+    "dest": "skills/brainstorming"
+  },
+  {
+    "source": "squirrelscan/skills/audit-website",
+    "dest": "skills/audit-website"
+  },
+  {
+    "source": "coreyhaines31/marketingskills/seo-audit",
+    "dest": "skills/seo-audit"
+  },
+  {
+    "source": "supabase/agent-skills/supabase-postgres-best-practices",
+    "dest": "skills/supabase-postgres-best-practices"
+  },
+  {
+    "source": "anthropics/skills/pdf",
+    "dest": "skills/pdf"
+  },
+  {
+    "source": "coreyhaines31/marketingskills/copywriting",
+    "dest": "skills/copywriting"
+  },
+  {
+    "source": "vercel-labs/next-skills/next-best-practices",
+    "dest": "skills/next-best-practices"
+  },
+  {
+    "source": "anthropics/skills/pptx",
+    "dest": "skills/pptx"
+  },
+  {
+    "source": "obra/superpowers/systematic-debugging",
+    "dest": "skills/systematic-debugging"
+  },
+  {
+    "source": "anthropics/skills/docx",
+    "dest": "skills/docx"
+  },
+  {
+    "source": "better-auth/skills/better-auth-best-practices",
+    "dest": "skills/better-auth-best-practices"
+  },
+  {
+    "source": "anthropics/skills/xlsx",
+    "dest": "skills/xlsx"
+  },
+  {
+    "source": "coreyhaines31/marketingskills/marketing-psychology",
+    "dest": "skills/marketing-psychology"
+  },
+  {
+    "source": "anthropics/skills/webapp-testing",
+    "dest": "skills/webapp-testing"
+  },
+  {
+    "source": "obra/superpowers/writing-plans",
+    "dest": "skills/writing-plans"
+  },
+  {
+    "source": "expo/skills/building-native-ui",
+    "dest": "skills/building-native-ui"
+  },
+  {
+    "source": "obra/superpowers/test-driven-development",
+    "dest": "skills/test-driven-development"
+  },
+  {
+    "source": "coreyhaines31/marketingskills/programmatic-seo",
+    "dest": "skills/programmatic-seo"
+  },
+  {
+    "source": "anthropics/skills/mcp-builder",
+    "dest": "skills/mcp-builder"
+  },
+  {
+    "source": "coreyhaines31/marketingskills/content-strategy",
+    "dest": "skills/content-strategy"
+  },
+  {
+    "source": "coreyhaines31/marketingskills/product-marketing-context",
+    "dest": "skills/product-marketing-context"
+  },
+  {
+    "source": "obra/superpowers/executing-plans",
+    "dest": "skills/executing-plans"
+  },
+  {
+    "source": "coreyhaines31/marketingskills/marketing-ideas",
+    "dest": "skills/marketing-ideas"
+  },
+  {
+    "source": "obra/superpowers/requesting-code-review",
+    "dest": "skills/requesting-code-review"
+  },
+  {
+    "source": "obra/superpowers/using-superpowers",
+    "dest": "skills/using-superpowers"
+  },
+  {
+    "source": "coreyhaines31/marketingskills/social-content",
+    "dest": "skills/social-content"
+  },
+  {
+    "source": "coreyhaines31/marketingskills/copy-editing",
+    "dest": "skills/copy-editing"
+  },
+  {
+    "source": "anthropics/skills/canvas-design",
+    "dest": "skills/canvas-design"
+  },
+  {
+    "source": "coreyhaines31/marketingskills/pricing-strategy",
+    "dest": "skills/pricing-strategy"
+  },
+  {
+    "source": "wshobson/agents/tailwind-design-system",
+    "dest": "skills/tailwind-design-system"
+  },
+  {
+    "source": "obra/superpowers/subagent-driven-development",
+    "dest": "skills/subagent-driven-development"
+  },
+  {
+    "source": "coreyhaines31/marketingskills/page-cro",
+    "dest": "skills/page-cro"
+  },
+  {
+    "source": "coreyhaines31/marketingskills/launch-strategy",
+    "dest": "skills/launch-strategy"
+  },
+  {
+    "source": "coreyhaines31/marketingskills/analytics-tracking",
+    "dest": "skills/analytics-tracking"
+  },
+  {
+    "source": "obra/superpowers/verification-before-completion",
+    "dest": "skills/verification-before-completion"
+  },
+  {
+    "source": "anthropics/skills/algorithmic-art",
+    "dest": "skills/algorithmic-art"
+  },
+  {
+    "source": "coreyhaines31/marketingskills/schema-markup",
+    "dest": "skills/schema-markup"
+  },
+  {
+    "source": "obra/superpowers/receiving-code-review",
+    "dest": "skills/receiving-code-review"
+  },
+  {
+    "source": "obra/superpowers/using-git-worktrees",
+    "dest": "skills/using-git-worktrees"
+  }
+]
